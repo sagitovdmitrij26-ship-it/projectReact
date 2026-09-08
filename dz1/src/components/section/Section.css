@@ -1,0 +1,14 @@
+.chelyabinsk-section {
+  width: 60%;
+}
+.chelyabinsk-section p {
+  line-height: 2;
+  color: #134d64;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  text-align: justify;
+}
+.chelyabinsk-section h4 {
+    font-weight: bold;
+    font-size: larger;
+}
