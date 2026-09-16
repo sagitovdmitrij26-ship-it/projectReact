@@ -1,0 +1,20 @@
+div ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+}
+div a{
+    text-decoration: none;
+    font-size:30px;
+    font-weight: bold;
+    color: #dfddf1;
+    cursor: pointer;
+}
+.header{
+    padding: 20px;
+    background-image: url(img1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

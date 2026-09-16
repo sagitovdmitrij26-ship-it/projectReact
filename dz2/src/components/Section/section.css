@@ -1,0 +1,25 @@
+.song {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    align-items: center;
+}
+.song h1 {
+    font-size: 24px;
+    color: #f3eded;
+    font-weight:500;
+    font-style: italic;
+}
+.song h2 {
+    font-size: 18px;
+    color: #eff3ea;
+}
+.song h3 {
+    font-size: 16px;
+    color: #ebf0f7;
+}
+.App{
+    background-image: url(SZ.webp);
+    repeat: no-repeat;
+    background-size: contain;
+    
+}
